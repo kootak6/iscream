@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image: url(../image/kumakichi2361_TP_V.jpg);
+    background-image: url(kumakichi2361_TP_V.jpg);
     width: auto;
     height: 800px;
 
@@ -87,7 +87,7 @@ header{
 .maintwo{
     height: 750px;
     margin-top: -20px;
-    background-image: url(../image/RED2182OPSO18_TP_V.png);
+    background-image: url(RED2182OPSO18_TP_V.png);
 
     .maintwotext{
         padding-left: 990px;
@@ -165,7 +165,7 @@ header{
 }
 
 .mainend{
-    background-image: url(../image/REDSUG074E021_TP_V.jpg);
+    background-image: url(REDSUG074E021_TP_V.jpg);
     width: 100%;
     height: 400px;
 }
